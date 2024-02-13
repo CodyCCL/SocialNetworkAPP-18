@@ -7,3 +7,6 @@ MongoDB is a popular choice for many social networks due to its speed with large
 ![image](https://github.com/CodyCCL/SocialNetworkAPPNOSQL-18/assets/142187489/8258c837-0dbb-4d8e-9ff8-b06c196e9e19)
 
 ## Link
+
+## Note for code
+Walked through the solution and received code from support staff such as an Instructor
